@@ -1,3 +1,3 @@
 # test 
 
-det er bare daniel og RT som tester
+det er bare daniel og Robin som tester
